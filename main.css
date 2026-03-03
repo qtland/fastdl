@@ -131,7 +131,15 @@ p {
 	font-size : 12px;
 }
 
-
+h1 {
+	font-weight : normal;
+	margin : 0 0 8px 0;
+	font-family : Arial, sans-serif;
+	font-size : 20px;
+	color : #FFFFFF;
+	padding : 8px 0 0 0;
+}
+		
 h2 {
 	background : none;
 	font : bold 32px Arial, Helvetica, sans-serif;
